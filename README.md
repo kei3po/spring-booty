@@ -1,2 +1,2 @@
 # spring-booty
-test app in spring boot for trying out GoCD tooling
+This is a test spring boot web app for trying out GoCD tooling
